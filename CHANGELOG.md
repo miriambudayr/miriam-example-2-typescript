@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.3 (2025-05-27)
+
+Full Changelog: [v0.1.0-alpha.2...v0.1.0-alpha.3](https://github.com/miriambudayr/miriam-example-2-typescript/compare/v0.1.0-alpha.2...v0.1.0-alpha.3)
+
+### Features
+
+* **api:** update via SDK Studio ([53b0186](https://github.com/miriambudayr/miriam-example-2-typescript/commit/53b018661db8c2d095ddb13c497e6223bd57e2e8))
+
 ## 0.1.0-alpha.2 (2025-05-27)
 
 Full Changelog: [v0.1.0-alpha.1...v0.1.0-alpha.2](https://github.com/miriambudayr/miriam-example-2-typescript/compare/v0.1.0-alpha.1...v0.1.0-alpha.2)
