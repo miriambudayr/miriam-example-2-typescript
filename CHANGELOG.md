@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.1.0-alpha.9 (2025-05-28)
+
+Full Changelog: [v0.1.0-alpha.8...v0.1.0-alpha.9](https://github.com/miriambudayr/miriam-example-2-typescript/compare/v0.1.0-alpha.8...v0.1.0-alpha.9)
+
+### Features
+
+* **api:** update via SDK Studio ([007e584](https://github.com/miriambudayr/miriam-example-2-typescript/commit/007e584131a08431defa27accc47ff21f16fcb9b))
+
+
+### Chores
+
+* improve publish-npm script --latest tag logic ([d393e44](https://github.com/miriambudayr/miriam-example-2-typescript/commit/d393e449275c36d701fcf639e3871f0855970cb7))
+
 ## 0.1.0-alpha.8 (2025-05-27)
 
 Full Changelog: [v0.1.0-alpha.7...v0.1.0-alpha.8](https://github.com/miriambudayr/miriam-example-2-typescript/compare/v0.1.0-alpha.7...v0.1.0-alpha.8)
