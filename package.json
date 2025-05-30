@@ -1,6 +1,6 @@
 {
   "name": "miriam-example-2",
-  "version": "0.1.0-alpha.14",
+  "version": "0.1.0-alpha.15",
   "description": "The official TypeScript library for the Miriam Example 2 API",
   "author": "Miriam Example 2 <apiteam@swagger.io>",
   "types": "dist/index.d.ts",
