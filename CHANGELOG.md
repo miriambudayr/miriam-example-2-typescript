@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.17 (2025-05-30)
+
+Full Changelog: [v0.1.0-alpha.16...v0.1.0-alpha.17](https://github.com/miriambudayr/miriam-example-2-typescript/compare/v0.1.0-alpha.16...v0.1.0-alpha.17)
+
+### Bug Fixes
+
+* compat with more runtimes ([36db0bf](https://github.com/miriambudayr/miriam-example-2-typescript/commit/36db0bfd0b636ba209cec38dffbdaae3d92bbe0c))
+
 ## 0.1.0-alpha.16 (2025-05-30)
 
 Full Changelog: [v0.1.0-alpha.15...v0.1.0-alpha.16](https://github.com/miriambudayr/miriam-example-2-typescript/compare/v0.1.0-alpha.15...v0.1.0-alpha.16)
