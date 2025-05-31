@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.1.0-alpha.19 (2025-05-31)
+
+Full Changelog: [v0.1.0-alpha.18...v0.1.0-alpha.19](https://github.com/miriambudayr/miriam-example-2-typescript/compare/v0.1.0-alpha.18...v0.1.0-alpha.19)
+
+### Chores
+
+* **deps:** bump eslint-plugin-prettier ([793f692](https://github.com/miriambudayr/miriam-example-2-typescript/commit/793f692a39b83b6f5cf529c5b6d270a1614355a6))
+* **internal:** update jest config ([3281126](https://github.com/miriambudayr/miriam-example-2-typescript/commit/32811263b35f850e401171283a8ade15773b3098))
+
 ## 0.1.0-alpha.18 (2025-05-30)
 
 Full Changelog: [v0.1.0-alpha.17...v0.1.0-alpha.18](https://github.com/miriambudayr/miriam-example-2-typescript/compare/v0.1.0-alpha.17...v0.1.0-alpha.18)
