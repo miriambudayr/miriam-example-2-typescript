@@ -1,5 +1,20 @@
 # Changelog
 
+## 0.1.0-alpha.19 (2025-06-03)
+
+Full Changelog: [v0.1.0-alpha.18...v0.1.0-alpha.19](https://github.com/miriambudayr/miriam-example-2-typescript/compare/v0.1.0-alpha.18...v0.1.0-alpha.19)
+
+### Features
+
+* **api:** update via SDK Studio ([9a57f26](https://github.com/miriambudayr/miriam-example-2-typescript/commit/9a57f26bcf6d34368738f9e29719d5ff4a17d573))
+
+
+### Chores
+
+* adjust eslint.config.mjs ignore pattern ([3f1aa36](https://github.com/miriambudayr/miriam-example-2-typescript/commit/3f1aa368a26dd5c8708328b1fd17c33dca9f6098))
+* **deps:** bump eslint-plugin-prettier ([793f692](https://github.com/miriambudayr/miriam-example-2-typescript/commit/793f692a39b83b6f5cf529c5b6d270a1614355a6))
+* **internal:** update jest config ([3281126](https://github.com/miriambudayr/miriam-example-2-typescript/commit/32811263b35f850e401171283a8ade15773b3098))
+
 ## 0.1.0-alpha.18 (2025-05-30)
 
 Full Changelog: [v0.1.0-alpha.17...v0.1.0-alpha.18](https://github.com/miriambudayr/miriam-example-2-typescript/compare/v0.1.0-alpha.17...v0.1.0-alpha.18)
