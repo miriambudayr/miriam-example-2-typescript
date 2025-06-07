@@ -1,5 +1,20 @@
 # Changelog
 
+## 0.0.0-alpha.21 (2025-06-07)
+
+Full Changelog: [v0.0.0-alpha.20...v0.0.0-alpha.21](https://github.com/miriambudayr/miriam-example-2-typescript/compare/v0.0.0-alpha.20...v0.0.0-alpha.21)
+
+### Features
+
+* **api:** update via SDK Studio ([6efb1b9](https://github.com/miriambudayr/miriam-example-2-typescript/commit/6efb1b9121c5ea1cac825f777cb3cafd94327564))
+
+
+### Chores
+
+* avoid type error in certain environments ([1c63c9a](https://github.com/miriambudayr/miriam-example-2-typescript/commit/1c63c9a640aac12c2c0ece4d1398d1b934a3829f))
+* **docs:** use top-level-await in example snippets ([d89706f](https://github.com/miriambudayr/miriam-example-2-typescript/commit/d89706fbeed6949b75cf4625021f207720f8c34d))
+* **internal:** fix readablestream types in node 20 ([7a1089c](https://github.com/miriambudayr/miriam-example-2-typescript/commit/7a1089c829ec7a50dcf8cfe0462a265d9b135195))
+
 ## 0.0.0-alpha.20 (2025-06-03)
 
 Full Changelog: [v0.1.0-alpha.19...v0.0.0-alpha.20](https://github.com/miriambudayr/miriam-example-2-typescript/compare/v0.1.0-alpha.19...v0.0.0-alpha.20)
