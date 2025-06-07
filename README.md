@@ -4,7 +4,7 @@
 
 This library provides convenient access to the Miriam Example 2 REST API from server-side TypeScript or JavaScript.
 
-The REST API documentation can be found on [swagger.iooooo](https://swagger.iooooo). The full API of this library can be found in [api.md](api.md).
+The REST API documentation can be found on [swagger.iooo](https://swagger.iooo). The full API of this library can be found in [api.md](api.md).
 
 It is generated with [Stainless](https://www.stainless.com/).
 
@@ -29,11 +29,7 @@ const client = new MiriamExample2({
   apiKey: process.env['MIRIAM_EXAMPLE_2_API_KEY'], // This is the default and can be omitted
 });
 
-async function main() {
-  const pets = await client.pets.list();
-}
-
-main();
+const pets = await client.pets.list();
 ```
 
 ### Request & Response types
@@ -48,11 +44,7 @@ const client = new MiriamExample2({
   apiKey: process.env['MIRIAM_EXAMPLE_2_API_KEY'], // This is the default and can be omitted
 });
 
-async function main() {
-  const pets: MiriamExample2.PetListResponse = await client.pets.list();
-}
-
-main();
+const pets: MiriamExample2.PetListResponse = await client.pets.list();
 ```
 
 Documentation for each method, request param, and response field are available in docstrings and will appear on hover in most modern editors.
@@ -65,19 +57,15 @@ a subclass of `APIError` will be thrown:
 
 <!-- prettier-ignore -->
 ```ts
-async function main() {
-  const pets = await client.pets.list().catch(async (err) => {
-    if (err instanceof MiriamExample2.APIError) {
-      console.log(err.status); // 400
-      console.log(err.name); // BadRequestError
-      console.log(err.headers); // {server: 'nginx', ...}
-    } else {
-      throw err;
-    }
-  });
-}
-
-main();
+const pets = await client.pets.list().catch(async (err) => {
+  if (err instanceof MiriamExample2.APIError) {
+    console.log(err.status); // 400
+    console.log(err.name); // BadRequestError
+    console.log(err.headers); // {server: 'nginx', ...}
+  } else {
+    throw err;
+  }
+});
 ```
 
 Error codes are as follows:
