@@ -1,5 +1,39 @@
 # Changelog
 
+## 0.0.0-alpha.21 (2025-07-17)
+
+Full Changelog: [v0.0.0-alpha.20...v0.0.0-alpha.21](https://github.com/miriambudayr/miriam-example-2-typescript/compare/v0.0.0-alpha.20...v0.0.0-alpha.21)
+
+### Features
+
+* **api:** update via SDK Studio ([6efb1b9](https://github.com/miriambudayr/miriam-example-2-typescript/commit/6efb1b9121c5ea1cac825f777cb3cafd94327564))
+* **client:** add support for endpoint-specific base URLs ([db1b611](https://github.com/miriambudayr/miriam-example-2-typescript/commit/db1b611024af88c06294323884402dd759af1bb5))
+
+
+### Bug Fixes
+
+* **client:** explicitly copy fetch in withOptions ([36ff4b2](https://github.com/miriambudayr/miriam-example-2-typescript/commit/36ff4b2916be8d2d17041c4538a6f649ab8461fb))
+* **client:** get fetchOptions type more reliably ([2be627b](https://github.com/miriambudayr/miriam-example-2-typescript/commit/2be627baf06320550b7e38059286bdb70735b1f5))
+* publish script — handle NPM errors correctly ([6f509be](https://github.com/miriambudayr/miriam-example-2-typescript/commit/6f509be102ed54b8f82a2d5b0ef425d4d613849c))
+
+
+### Chores
+
+* add docs to RequestOptions type ([2ea485f](https://github.com/miriambudayr/miriam-example-2-typescript/commit/2ea485f6b7b7741715c08faf15c21353c12b1537))
+* avoid type error in certain environments ([1c63c9a](https://github.com/miriambudayr/miriam-example-2-typescript/commit/1c63c9a640aac12c2c0ece4d1398d1b934a3829f))
+* change publish docs url ([3662657](https://github.com/miriambudayr/miriam-example-2-typescript/commit/3662657211ae079c28e180959f3687f1f70cd22b))
+* **ci:** enable for pull requests ([b2189c2](https://github.com/miriambudayr/miriam-example-2-typescript/commit/b2189c210688d0f9cce4b9455d364effdfef0f5b))
+* **ci:** only run for pushes and fork pull requests ([809b832](https://github.com/miriambudayr/miriam-example-2-typescript/commit/809b832127a6b2e56510a54e9a95e98de4cddc2c))
+* **client:** improve path param validation ([ec747fd](https://github.com/miriambudayr/miriam-example-2-typescript/commit/ec747fd95441559c91f8fc8b4242826453547d16))
+* **client:** refactor imports ([07ba457](https://github.com/miriambudayr/miriam-example-2-typescript/commit/07ba45723439493f0581538bddc54dc5c62e7643))
+* **docs:** use top-level-await in example snippets ([d89706f](https://github.com/miriambudayr/miriam-example-2-typescript/commit/d89706fbeed6949b75cf4625021f207720f8c34d))
+* **internal:** add pure annotations, make base APIResource abstract ([bb8f949](https://github.com/miriambudayr/miriam-example-2-typescript/commit/bb8f9494541fc381e980713e5541b239aab2fb73))
+* **internal:** fix readablestream types in node 20 ([7a1089c](https://github.com/miriambudayr/miriam-example-2-typescript/commit/7a1089c829ec7a50dcf8cfe0462a265d9b135195))
+* make some internal functions async ([75e2ae5](https://github.com/miriambudayr/miriam-example-2-typescript/commit/75e2ae586ac30e6bb594cf47239b14788a18b9a1))
+* **readme:** update badges ([c9224b5](https://github.com/miriambudayr/miriam-example-2-typescript/commit/c9224b57b00934386a44ac4244192401cd2d18a4))
+* **readme:** use better example snippet for undocumented params ([54c934c](https://github.com/miriambudayr/miriam-example-2-typescript/commit/54c934c598d7d87fd81f0993a98c6e35d215740c))
+* **ts:** reorder package.json imports ([8d8ce10](https://github.com/miriambudayr/miriam-example-2-typescript/commit/8d8ce1052d9fb25aa77c194eafb651cc1af2fc0f))
+
 ## 0.0.0-alpha.20 (2025-06-03)
 
 Full Changelog: [v0.1.0-alpha.19...v0.0.0-alpha.20](https://github.com/miriambudayr/miriam-example-2-typescript/compare/v0.1.0-alpha.19...v0.0.0-alpha.20)
